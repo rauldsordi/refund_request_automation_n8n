@@ -29,6 +29,8 @@ Webhook (form submission)
                  → Personalized email + urgent Telegram alert escalated to the team
 ```
 
+![Workflow execution demo](workflow-demo.gif)
+
 ### Customer classification logic
 
 | Profile | Condition | Action |

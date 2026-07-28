@@ -49,7 +49,7 @@ The AI Agent returns a structured JSON output (via a Structured Output Parser) c
 
 ## Setup
 
-1. Import `Analise_de_Reembolso.json` into your n8n instance.
+1. Import `refund_request` into your n8n instance.
 2. Configure credentials for: Google Gemini (or another supported chat model), Google Sheets OAuth2, Gmail OAuth2, and Telegram Bot API.
 3. Replace the placeholders in the workflow with your own values:
    - `YOUR_SPREADSHEET_ID` → your Google Sheets document ID
